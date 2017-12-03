@@ -1,4 +1,4 @@
-# vuetest
+# study-notes-for-Vue.js
 
 > A Vue.js project
 
